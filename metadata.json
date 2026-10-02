@@ -1,0 +1,6 @@
+{
+  "name": "Romeo Parkour 3D - Secret Window Rush",
+  "description": "Juego 3D de parkour cómico y sigilo: salta obstáculos, derrota monstruos chistosos, esquiva a los padres con chanclas y llega a la ventana de las 10 chicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
